@@ -1,0 +1,2259 @@
+{
+    "seat_maps": [
+        {
+            "SegmentRef": "SEG1",
+            "Row": [
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3353",
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    },
+                    "Number": "24"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3353",
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+                        ]
+                    },
+                    "Number": "25"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": null,
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                        ]
+                    },
+                    "Number": "26"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3354",
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "REAR_FACING_SEAT"
+                        ]
+                    },
+                    "Number": "27"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3354",
+                        "Availability": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "REAR_FACING_SEAT"
+                        ]
+                    },
+                    "Number": "28"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3354",
+                        "Availability": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "REAR_FACING_SEAT"
+                        ]
+                    },
+                    "Number": "29"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": null,
+                        "Availability": [
+                            "WINDOW",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "OCCUPIED",
+                            "REAR_FACING_SEAT",
+                            "CREW_SEAT"
+                        ]
+                    },
+                    "Number": "30"
+                }
+            ]
+        },
+        {
+            "SegmentRef": "SEG1",
+            "Row": [
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3353",
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    },
+                    "Number": "24"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3353",
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+                        ]
+                    },
+                    "Number": "25"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": null,
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                        ]
+                    },
+                    "Number": "26"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3354",
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "REAR_FACING_SEAT"
+                        ]
+                    },
+                    "Number": "27"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3354",
+                        "Availability": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "REAR_FACING_SEAT"
+                        ]
+                    },
+                    "Number": "28"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3354",
+                        "Availability": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "REAR_FACING_SEAT"
+                        ]
+                    },
+                    "Number": "29"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": null,
+                        "Availability": [
+                            "WINDOW",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "OCCUPIED",
+                            "REAR_FACING_SEAT",
+                            "CREW_SEAT"
+                        ]
+                    },
+                    "Number": "30"
+                }
+            ]
+        },
+        {
+            "SegmentRef": "SEG1",
+            "Row": [
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3353",
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    },
+                    "Number": "24"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3353",
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+                        ]
+                    },
+                    "Number": "25"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": null,
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                        ]
+                    },
+                    "Number": "26"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3354",
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "REAR_FACING_SEAT"
+                        ]
+                    },
+                    "Number": "27"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3354",
+                        "Availability": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "REAR_FACING_SEAT"
+                        ]
+                    },
+                    "Number": "28"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3354",
+                        "Availability": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "REAR_FACING_SEAT"
+                        ]
+                    },
+                    "Number": "29"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": null,
+                        "Availability": [
+                            "WINDOW",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "OCCUPIED",
+                            "REAR_FACING_SEAT",
+                            "CREW_SEAT"
+                        ]
+                    },
+                    "Number": "30"
+                }
+            ]
+        },
+        {
+            "SegmentRef": "SEG1",
+            "Row": [
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3353",
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    },
+                    "Number": "24"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3353",
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+                        ]
+                    },
+                    "Number": "25"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": null,
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                        ]
+                    },
+                    "Number": "26"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3354",
+                        "Availability": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "REAR_FACING_SEAT"
+                        ]
+                    },
+                    "Number": "27"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3354",
+                        "Availability": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "REAR_FACING_SEAT"
+                        ]
+                    },
+                    "Number": "28"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": "OFIa20ae42f-6417-11eb-b326-15132ca0c3354",
+                        "Availability": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "REAR_FACING_SEAT"
+                        ]
+                    },
+                    "Number": "29"
+                },
+                {
+                    "Seat": {
+                        "Column": "F",
+                        "OfferItemRefs": null,
+                        "Availability": [
+                            "WINDOW",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "OCCUPIED",
+                            "REAR_FACING_SEAT",
+                            "CREW_SEAT"
+                        ]
+                    },
+                    "Number": "30"
+                }
+            ]
+        }
+    ],
+    "cabin_classes": [
+        {
+            "Layout": "AB EF",
+            "UpperDeckInd": "false",
+            "Row": [
+                {
+                    "CabinType": "First",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "2A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "2B",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "4",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "2E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "2F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "First",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "2A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "2B",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "4",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "2E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "2F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Layout": "ABC DEF",
+            "UpperDeckInd": "false",
+            "Row": [
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                },
+                {
+                    "CabinType": "Economy",
+                    "seat": [
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "1",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39A",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "2",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "true",
+                            "SeatNumber": "39B",
+                            "Amount": "1200",
+                            "Currency": "USD"
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "3",
+                            "PlaneSection": "Left",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39C",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "5",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39D",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "6",
+                            "PlaneSection": "Center",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39E",
+                            "Amount": null,
+                            "Currency": null
+                        },
+                        {
+                            "BlockedInd": "false",
+                            "BulkheadInd": "false",
+                            "ColumnNumber": "7",
+                            "PlaneSection": "Right",
+                            "AvailableInd": "false",
+                            "SeatNumber": "39F",
+                            "Amount": null,
+                            "Currency": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
