@@ -2,14 +2,35 @@ import json
 from bs4 import BeautifulSoup
 
 class SeatMapParser:
-    
+    """
+    This class parces a seatmap xml file and return it as a json object
+    """
     def _fetch_bs_object(self, filename=None):
+        """
+        This private method gets a xml file name, and return the file as a beautifulsoup object
+        
+        @Params:
+            filename: the name of the file to be read in and converted to beautifulsoup object
+        
+        @Return:
+            soup: a beautiful soup object that will be further used to parse the xml file
+        """
         with open(filename, 'r') as f:
             xml_data = f.read()
         soup = BeautifulSoup(xml_data, "xml")
         return soup
     
-    def fetch_seat_definitions(self, soup):
+    def _fetch_seat_definitions(self, soup):
+        """
+        This private method retrived the seat definitions and return as a dictionary with 
+        seat id as key and seat definition as value.
+        
+        @Params:
+            soup: beautiful soup object of the xml file to be parsed
+        
+        @Return:
+            seat_definition_obj: dictionary with seat id as key and seat definition as value
+        """
         seat_definitions = soup.find_all("SeatDefinition")
         seat_definition_obj = {}
         for definition in seat_definitions:                
@@ -19,10 +40,19 @@ class SeatMapParser:
         return seat_definition_obj
 
     def _process_seat_map2(self, filename):
+        """
+        This is a private method that processes the seat map file and return it as an array of different objects including
+        `Seat`, `Column`, `OfferItemRefs`, `Availability`.
+        
+        @Params: 
+            filename: the name of the file to be read in and parsed
+        
+        @Return:
+            list_of_seatmaps: array of objects including `Seat`, `Column`, `OfferItemRefs`, `Availability`
+        """
         soup = self._fetch_bs_object(filename)
-#         soup = BeautifulSoup(xml_data, "lxml")
         seatmaps = soup.find_all("SeatMap")
-        seat_definition_obj = self.fetch_seat_definitions(soup)
+        seat_definition_obj = self._fetch_seat_definitions(soup)
         seatmap_dict = {}
         list_of_seatmaps = []
         for seatmap in seatmaps:
@@ -46,8 +76,16 @@ class SeatMapParser:
         return list_of_seatmaps
 
     def _process_cabin_classes(self, filename):
-#         xml_data = fetch_data(filename="seatmap1.xml")
-#         soup = BeautifulSoup(xml_data, "xml")
+        """
+        This is a private method that processes the seat map file and return it as an array of different objects including
+        `BlockedInd`, `BulkheadInd`, `ColumnNumber`, `PlaneSection`, etc.
+        
+        @Params: 
+            filename: the name of the file to be read in and parsed
+        
+        @Return:
+            list_of_cabin_classes: array of objects including `BlockedInd`, `BulkheadInd`, `ColumnNumber`, `PlaneSection`, etc.
+        """
         soup = self._fetch_bs_object(filename)
         cabin_classes = soup.find_all("CabinClass")
         cabin_list = []
@@ -93,11 +131,7 @@ class SeatMapParser:
         # Writing to sample.json
         with open("seat_map_parsed.json", "w") as outfile:
             outfile.write(json_object)
-#         return data
-# Press the green button in the gutter to run the script.
+
 if __name__ == '__main__':
     seat_map_parser = SeatMapParser()
     data = seat_map_parser.get_parsed_data()
-
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
